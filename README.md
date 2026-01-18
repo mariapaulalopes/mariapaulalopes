@@ -17,6 +17,7 @@
       <li>🌐 HTML</li>
       <li>🎨 CSS</li>
       <li>⚡ JavaScript <i>(em aprendizado)</i></li>
+      <li>🎲 Banco de Dados SQL</li>
   </ul>
 
   <h2>📂 Sobre este GitHub</h2>
