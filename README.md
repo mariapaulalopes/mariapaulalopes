@@ -8,7 +8,7 @@
 
   <ul>
       <li>Desenvolvimento Front-end</li>
-      <li>Interesses em Full Stack</li>
+      <li>Desenvolvimento Full Stack</li>
   </ul>
 
   <h2>🛠 Tecnologias</h2>
