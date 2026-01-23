@@ -30,6 +30,10 @@ Tenho interesse em evoluir para **full stack** por meio de projetos práticos, v
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
 <br></div> -->
 
+![snake gif](https://github.com/mariapaulalopes/mariapaulalopes/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=mariapaulalopes&repo=mariapaulalopes&theme=react)](https://github.com/mariapaulalopes/mariapaulalopes)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b500ff&height=120&section=footer"/>
 
